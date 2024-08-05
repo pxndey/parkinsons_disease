@@ -8,3 +8,10 @@ Models:
 - VGG19
 - ResNet50
 - Resnet152
+
+Model 2: 
+Standard classification models with feature engineering on patient demographic data
+Models:
+- XGBoost
+- Decision Trees
+- SVC
